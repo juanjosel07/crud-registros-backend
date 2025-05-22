@@ -32,7 +32,8 @@ Para ejecutar este proyecto, necesitas tener lo siguiente instalado:
 - Agrega el archivo .env y las variables de entorno correspondientes:
 
   ```bash
-  	DB_PORT= Usar el puerto de tu servidor MySQL (XAMPP/WAMP/Laragon)
+  	APP_URL=http://127.0.0.1:8000
+    WP_URL=http://127.0.0.1:8000/cms
   	DATABASE_NAME= nombre base de datos
     DATABASE_USER=root
   	DATABASE_PASSWORD= dejar vacío
