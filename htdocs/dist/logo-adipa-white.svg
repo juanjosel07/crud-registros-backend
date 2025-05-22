@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90.4319mm"
+   height="17.25979mm"
+   viewBox="0 0 90.4319 17.25979"
+   version="1.1"
+   id="svg11917"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="logo-adipa-white.svg">
+  <defs
+     id="defs11911" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-583.39079"
+     inkscape:cy="-141.6688"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11914">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.248336,-94.090339)">
+    <path
+       d="m 85.517447,104.61942 -0.961672,-2.21157 h -3.845984 l -3.461455,8.84626 h 2.788355 l 2.548114,-6.68267 c 0,0 2.973564,0.048 2.932642,0.048"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       id="path42"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204" />
+    <g
+       id="g44"
+       transform="matrix(0.35277777,0,0,-0.35277777,84.315641,94.090518)"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204">
+      <path
+         d="m 0,0 18.261,-48.789 h 8.177 L 7.359,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path46"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g48"
+       transform="matrix(0.35277777,0,0,-0.35277777,159.55548,104.61942)"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204">
+      <path
+         d="m 0,0 -2.726,6.269 h -10.902 l -9.812,-25.076 h 7.904 L -8.313,0.136 C -8.313,0.136 0.115,0 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path50"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g52"
+       transform="matrix(0.35277777,0,0,-0.35277777,158.3535,94.090518)"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204">
+      <path
+         d="m 0,0 18.262,-48.789 h 8.176 L 7.359,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path54"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g56"
+       transform="matrix(0.35277777,0,0,-0.35277777,104.02692,109.09045)"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204">
+      <path
+         d="M 0,0 V 21.805 H -7.359 V -6.269 h 18.534 c 0,0 19.352,-1.635 22.35,18.534 C 36.523,32.435 26.984,42.52 9.267,42.52 H -7.359 V 35.978 H 7.632 c 0,0 17.716,1.363 18.806,-12.811 C 27.529,8.995 26.711,-2.181 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path58"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       d="m 126.57506,111.35013 h -2.78835 V 94.138814 h 2.78835 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       id="path60"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204" />
+    <g
+       id="g62"
+       transform="matrix(0.35277777,0,0,-0.35277777,134.50759,102.35977)"
+       inkscape:export-filename="/var/www/html/virtualys/frontend/dist/img/icons/logo-adipa-white.svg.png"
+       inkscape:export-xdpi="204"
+       inkscape:export-ydpi="204">
+      <path
+         d="m 0,0 v -25.348 h 7.086 v 19.079 h 12.538 c 0,0 17.444,-1.635 17.717,13.355 0.272,14.992 -9.54,15.809 -15.809,16.081 -6.269,0.273 -21.804,0 -21.804,0 v -6.268 l 17.988,0.272 c 0,0 13.13,0.814 12.265,-9.267 C 29.164,-1.635 19.079,0 15.809,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path64"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
